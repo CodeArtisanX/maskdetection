@@ -1,0 +1,7 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+nomask.jpg,0,0,nomask,105,100,324,303
+nomask.jpg,0,0,nomask,354,100,540,289
+nomask.jpg,0,0,nomask,565,116,754,281
+mask.jpg,0,0,mask,108,97,308,295
+mask.jpg,0,0,mask,351,95,532,311
+mask.jpg,0,0,mask,562,111,757,308
